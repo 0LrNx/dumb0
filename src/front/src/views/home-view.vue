@@ -100,7 +100,7 @@ function toggle(event: any, datasource: DatasourceDto) {
 }
 
 function goToGithub() {
-  window.open("https://github.com/ThomasLeconte/dba-app", "_blank");
+  window.open("https://github.com/ThomasLeconte/dumb0", "_blank");
 }
 
 function showCreateDialog() {

@@ -24,7 +24,6 @@ app.use(cors({
 }));
 
 // Dossier de stockage des données (clé de chiffrement + base SQLite).
-// En Electron, c'est app.getPath('userData') ; ici on prend un dossier serveur.
 const dataDir = process.env.DATA_DIR ?? path.join(process.cwd(), "data");
 fs.mkdirSync(dataDir, { recursive: true });
 
