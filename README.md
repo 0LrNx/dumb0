@@ -1,15 +1,7 @@
 <p align="center">
-  <div style="display: flex;justify-content: center;align-items: center">
-      <img src="icons/android-chrome-512x512.png" width="125"/>
-      <p style="font-weight: bold;font-size: 3rem">umb0</p>
-  </div>
+      <img src="icons/android-chrome-512x512.png" width="125" align="left"/>
+  <h1 align="center">Dumb0</h1>
   <p align="center">A simple and quick overview of your PostgreSQL database — built for DBAs, developers, and the curious.</p>
-  <p align="center">
-    <a href="#-features">Features</a> ·
-    <a href="#-screenshots">Screenshots</a> ·
-    <a href="#-installation">Installation</a> ·
-    <a href="#-license">License</a>
-  </p>
 </p>
 
 ---
