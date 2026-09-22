@@ -1,5 +1,8 @@
 <p align="center">
-  <h1 align="center">Dumb0</h1>
+  <div style="display: flex;justify-content: center;align-items: center">
+      <img src="icons/android-chrome-512x512.png" width="125"/>
+      <p style="font-weight: bold;font-size: 3rem">umb0</p>
+  </div>
   <p align="center">A simple and quick overview of your PostgreSQL database — built for DBAs, developers, and the curious.</p>
   <p align="center">
     <a href="#-features">Features</a> ·
