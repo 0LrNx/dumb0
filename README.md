@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="icons/android-chrome-512x512.png" width="80" align="center" alt="Dumb0 logo"/>
-  Dumb0
+  <img src="icons/title.svg" height="80" alt="Dumb0">
 </h1>
 
 <p align="center">A simple and quick overview of your PostgreSQL database — built for DBAs, developers, and the curious.</p>
